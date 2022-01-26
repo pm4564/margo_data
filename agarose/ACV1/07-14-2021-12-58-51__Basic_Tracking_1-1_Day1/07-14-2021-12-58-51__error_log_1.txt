@@ -1,0 +1,27 @@
+Index in position 1 exceeds array bounds (must not exceed 1024).
+
+Error in traceplot_subgui>dispTrace (line 226)
+roi_im = expmt.meta.ref.im(rc(2):rc(4),rc(1):rc(3));
+
+Error in traceplot_subgui>traceplot_subgui_OpeningFcn (line 108)
+            dispTrace(i,handles);
+
+Error in gui_mainfcn (line 220)
+    feval(gui_State.gui_OpeningFcn, gui_hFigure, [], guidata(gui_hFigure), varargin{:});
+
+Error in traceplot_subgui (line 42)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in plotTraces (line 3)
+traceplot_subgui(expmt)
+
+Error in margo>run_pushbutton_Callback (line 862)
+            plotTraces(expmt);
+
+Error in gui_mainfcn (line 95)
+        feval(varargin{:});
+
+Error in margo (line 48)
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in matlab.graphics.internal.figfile.FigFile/read>@(hObject,eventdata)margo('run_pushbutton_Callback',hObject,eventdata,guidata(hObject))

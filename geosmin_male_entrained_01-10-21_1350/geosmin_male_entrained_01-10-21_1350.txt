@@ -1,0 +1,9 @@
+THIS IS NOT USABLE, THEY SPENT THE WHOLE TIME IN THE TEST CORNER BECAUSE OF THE AGAROSE...
+LESSON LEARNED, ALWAYS REPOUR
+
+In this experiment the control corner agarose was damaged, giving a rougher, less even surface.
+Rough surfaces are generally more appetitive for flies, particularly females when laying eggs.
+These experiments are with males, so it might matter less, but it's still a confound. Will run 
+anyway and see if there is some effect. What it might do is cancel out any inherent aversive signal
+from the geosmin, so this will obviously need repeating. In the analysis we could make N the number
+of flies rather than the number of trials, but the data are not independent in that case. 
